@@ -7,9 +7,9 @@ const myFunction = () => {
 };
 
 const newFunction = () => {
-  console.log("Salam");
+  console.log("Salam Conflit");
 };
 
 const fadiFunction = () => {
-  console.log("Salam c fadi");
+  console.log("Salam");
 };
