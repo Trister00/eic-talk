@@ -17,3 +17,7 @@ const myFunction3 = () => {
 const fadiFunction = () => {
   console.log("Salam c fadi ");
 };
+
+const fadiFunction = () => {
+  console.log("Salam c fadi");
+};
