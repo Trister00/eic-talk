@@ -3,7 +3,7 @@ const hello = () => {
 };
 
 const myFunction = () => {
-  console.log("New Function for EIC");
+  console.log("New Function for EIC Debates");
 };
 
 const newFunction = () => {
