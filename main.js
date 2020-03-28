@@ -9,3 +9,7 @@ const myFunction = () => {
 const newFunction = () => {
   console.log("Salam");
 };
+
+const fadiFunction = () => {
+  console.log("Salam c fadi");
+};
