@@ -6,8 +6,12 @@ const myFunction = () => {
   console.log("New Function for EIC Debates");
 };
 
-const newFunction = () => {
-  console.log("Salam");
+const salam = () => {
+  console.log("Salam world");
+};
+
+const myFunction3 = () => {
+  console.log("HI");
 };
 
 const fadiFunction = () => {
