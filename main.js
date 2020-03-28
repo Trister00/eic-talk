@@ -7,5 +7,5 @@ const myFunction = () => {
 };
 
 const newFunction = () => {
-  console.log("Hello EIC");
+  console.log("Salam");
 };
