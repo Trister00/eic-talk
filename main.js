@@ -5,3 +5,7 @@ const hello = () => {
 const myFunction = () => {
   console.log("New Function for EIC");
 };
+
+const newFunction = () => {
+  console.log("Hello EIC");
+};
